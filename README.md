@@ -1,8 +1,6 @@
-# An-introduction-to-data-science-in-R-for-geoscientists
+# "An introduction to data science in R for geoscientists" workshop installation instructions
 
-## Workshop Installation Instructions
-
-### Step 1: Install R
+## Step 1: Install R
 
 We will use R version 4.3.3 for the workshop. It can be installed via the following links:
 
