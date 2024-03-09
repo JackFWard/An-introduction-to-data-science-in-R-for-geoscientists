@@ -1,8 +1,8 @@
 # An-introduction-to-data-science-in-R-for-geoscientists
 
-2024 UQGS R Workshop Installation Instructions
+## Workshop Installation Instructions
 
-Step 1: Install R
+### Step 1: Install R
 
 We will use R version 4.3.3 for the workshop. It can be installed via the following links:
 
