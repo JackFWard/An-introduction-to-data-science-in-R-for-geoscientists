@@ -18,7 +18,7 @@ https://cran.r-project.org/bin/windows/base/ – click the link highlighted belo
 
 ![Windows_Installation](https://github.com/JackFWard/An-introduction-to-data-science-in-R-for-geoscientists/assets/63625965/efe183d3-cd82-4f18-87fc-bd304d822777)
 
-## Step 1.2: ***Windows Only*** – Install RTools
+## Step 1.2: Windows Only – Install RTools
 
 RTools allows you to build packages that use Fortran, C, and C++ code. It isn’t essential for our tutorial, but, if you don’t install it, you will get an annoying message in your console asking you to do so. Installing RTools is a bit more complicated than installing R and RStudio, but this video clearly walks you through the installation process. 
 
