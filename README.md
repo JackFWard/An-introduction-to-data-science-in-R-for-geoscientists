@@ -25,6 +25,19 @@ Installation tutorial: https://www.youtube.com/watch?v=hBTObNFFkhs&t=0s
 
 ## Step 2: Install RStudio
 
-As we will see in the workshop (or if you installed RTools), the default R interface isn’t particularly user-friendly. To make our lives easier, we will use an integrated development environment (IDE) to run R. In this workshop, we will use RStudio (download: https://www.rstudio.com/products/rstudio/download/#download). I have swapped my console and environment panes in the screenshot below, but RStudio should, overall, look similar to this when you open it:
+As we will see in the workshop (or if you installed RTools), the default R interface isn’t particularly user-friendly. To make our lives easier, we will use an integrated development environment (IDE) to run R. In this workshop, we will use RStudio (download: https://www.rstudio.com/products/rstudio/download/#download). I have modified my panel layout in the screenshot below, but, overall, RStudio should look similar to this when you open it:
+
+![RStudio_Layout](https://github.com/JackFWard/An-introduction-to-data-science-in-R-for-geoscientists/assets/63625965/4bf06a07-5749-43aa-b445-972810e03514)
+
+### Note: “Loading required package: raster” and “Loading required package: sp” won’t appear in your console, nor will you have any data files in your environment or code open in the editor.
+
+## Step 3: Install the ‘tidyverse’ packages
+
+R is noteworthy for containing several extremely powerful packages. Those included in the ‘tidyverse’ family are especially useful for working with geoscience datasets. Packages can be installed by typing install.packages(“PackageName”) into the console. Normally, you would write this for each package or use a vector [e.g., install.packages(c(“Package1Name”, “Package2Name”, “Package3Name”)] to install multiple packages at once. By typing install.packages(“tidyverse”) in the console and pressing enter/return to run the code, however, R will download and install the ‘ggplot2’, ‘tibble’, ‘tidyr’, ‘readr’, ‘purr’, ‘dplyr’, ‘stringr’, and ‘forcats’ packages. We will install other packages during the workshop, but I wanted the tidyverse packages to be installed before the session because they can sometimes take a few minutes to download. I have attached a screenshot of what you need to do below. If you receive the “Do you want to install from sources the packages which need compilation? (Yes/no/cancel)” message, type “no” and press enter/return. Allow the code to run for a minute or so. You will receive a message when the packages are installed.
+
+![Tidyverse](https://github.com/JackFWard/An-introduction-to-data-science-in-R-for-geoscientists/assets/63625965/a5071f1d-e8ca-4a5b-9168-0534a169c4ec)
+
+
+
 
  
