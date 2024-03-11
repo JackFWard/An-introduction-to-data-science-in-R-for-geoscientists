@@ -1,6 +1,6 @@
 # "An introduction to data science in R for geoscientists"
 
-Welcome! This GitHub repository contains copies of the workshop data files and scripts. I have also included R and RStudio installation instructions below. Please contact me at jack.ward1@uqconnect.edu.au if you have any questions or comments.
+Welcome! This GitHub repository contains copies of the workshop data file ("R_Workshop_Data.csv") and script ("R_Workshop_Code_2024.R"). I have also included R and RStudio installation instructions below. Please contact me at jack.ward1@uqconnect.edu.au if you have any questions or comments.
 
 # R and RStudio installation instructions
 
