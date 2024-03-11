@@ -41,7 +41,12 @@ R is noteworthy for containing several extremely powerful packages. Those includ
 
 ![Tidyverse](https://github.com/JackFWard/An-introduction-to-data-science-in-R-for-geoscientists/assets/63625965/a5071f1d-e8ca-4a5b-9168-0534a169c4ec)
 
+## Create a working directory
+The final thing I would like you to do before the workshop is to create a folder called "RCodingWorkshop" in your Documents folder and save the data file ("R_Workshop_Data.csv') there. I would like you to do this to avoid any potential issues with working directories during the workshop. Depending on your operating system, your file path should look like either:
 
+MacOS: "/Users/jackward/Documents/RCodingWorkshop"; or
+
+Windows: “C:\\Users\\Jack\\Documents\\RCodingWorkshop"
 
 
  
